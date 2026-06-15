@@ -1,0 +1,6 @@
+{
+  "name": "Cupid Match",
+  "description": "Um aplicativo de namoro estilo Tinder moderno em Kotlin e Jetpack Compose com matches, swipe de cartões, chats em tempo real e perfis locais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
